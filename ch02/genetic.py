@@ -15,6 +15,7 @@
 # implied.  See the License for the specific language governing
 # permissions and limitations under the License.
 #segundo ejemplo de commit
+#arrreglo de bug 3.1
 import random
 import statistics
 import sys
